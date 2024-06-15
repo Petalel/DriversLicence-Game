@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ChooseCar
+comment1.params=
+comment1.target=ChooseCar()
+comment2.params=
+comment2.target=void\ prepareScreen()
+comment3.params=car
+comment3.target=void\ setSelectedCar(java.lang.String)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ handleInput()
+comment6.params=
+comment6.target=void\ updateSelectionDisplay()
+numComments=7

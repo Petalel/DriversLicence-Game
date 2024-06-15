@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProgressBar
+comment1.params=total
+comment1.target=ProgressBar(int)
+comment2.params=value
+comment2.target=void\ addProgress(int)
+comment3.params=
+comment3.target=void\ updateImage()
+numComments=4

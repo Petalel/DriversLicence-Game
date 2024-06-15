@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Signal
+comment1.params=type
+comment1.target=Signal(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=boolean\ isQuizAnswered()
+comment4.params=quizAnswered
+comment4.target=void\ setQuizAnswered(boolean)
+numComments=5
